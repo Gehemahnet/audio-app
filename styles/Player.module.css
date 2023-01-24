@@ -1,0 +1,12 @@
+.player {
+  height: 64px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  background: lightgray;
+}
+
+/*# sourceMappingURL=Player.module.css.map */

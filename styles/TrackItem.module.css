@@ -1,0 +1,17 @@
+.track {
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+.track__description {
+  width: 200px;
+  margin: 0 20px;
+  font-size: 12px;
+  color: gray;
+}
+.track__delete {
+  margin-left: auto;
+}
+
+/*# sourceMappingURL=TrackItem.module.css.map */

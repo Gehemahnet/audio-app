@@ -1,0 +1,15 @@
+.track {
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  &__description {
+    width: 200px;
+    margin: 0 20px;
+    font-size: 12px;
+    color: gray;
+  }
+  &__delete {
+    margin-left: auto;
+  }
+}
